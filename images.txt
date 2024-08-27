@@ -1,4 +1,3 @@
 mariadb:10.7
-aibotk/ubuntu-spug-service
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
