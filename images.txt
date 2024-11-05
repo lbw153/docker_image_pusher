@@ -1,3 +1,5 @@
-hyperf/hyperf:7.4-alpine-v3.11-swoole
+openjdk:8-jdk
+keking/kkfileview:4.1.0
+minio/minio
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
