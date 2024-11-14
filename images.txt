@@ -1,5 +1,3 @@
-openjdk:8-jdk
-keking/kkfileview:4.1.0
-minio/minio
+nacos/nacos-server
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
