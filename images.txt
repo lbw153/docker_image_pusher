@@ -1,3 +1,3 @@
-phpswoole/swoole:php8.1-dev
+hyperf/hyperf:8.1-alpine-v3.18-swoole
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
