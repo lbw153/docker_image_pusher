@@ -1,3 +1,3 @@
-hyperf/hyperf:8.3-ubuntu-focal-swoole
+hyperf/hyperf:8.2-ubuntu-jammy-swoole
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
