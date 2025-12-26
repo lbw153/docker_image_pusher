@@ -1,3 +1,9 @@
-gitlab/gitlab-ce
+gitlab/gitlab-ce:17.3.7-ce.0
+gitlab/gitlab-ce:17.5.5-ce.0
+gitlab/gitlab-ce:17.8.7-ce.0
+gitlab/gitlab-ce:17.11.7-ce.0
+gitlab/gitlab-ce:18.2.8-ce.0
+gitlab/gitlab-ce:18.5.4-ce.0
+gitlab/gitlab-ce:18.7.0-ce.0
 #支持指定架构
 --platform=linux/arm64 linux/amd64
